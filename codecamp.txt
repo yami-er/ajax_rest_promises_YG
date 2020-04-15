@@ -1,0 +1,9 @@
+
+   Question1
+  document.getElementById('getMessage').onclick = function(){ };
+
+  Question2
+  document.getElementsByClassName('message')[0].textContent="Here is the message";
+
+
+
